@@ -1,8 +1,7 @@
 # Programming 1 Portfolio
 ## George Soderstrom 2017
 
-Inline-style: 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/pic.png "Logo Title Text 1")
+
 
 You can use the [editor on GitHub](https://github.com/piez6/Programming-1-Portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
